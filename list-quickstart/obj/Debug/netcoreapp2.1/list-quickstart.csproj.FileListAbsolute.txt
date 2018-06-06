@@ -1,0 +1,11 @@
+/Users/chenchen/GitHub/dotnet_app/list-quickstart/obj/Debug/netcoreapp2.1/list-quickstart.csprojAssemblyReference.cache
+/Users/chenchen/GitHub/dotnet_app/list-quickstart/obj/Debug/netcoreapp2.1/list-quickstart.csproj.CoreCompileInputs.cache
+/Users/chenchen/GitHub/dotnet_app/list-quickstart/obj/Debug/netcoreapp2.1/list-quickstart.AssemblyInfoInputs.cache
+/Users/chenchen/GitHub/dotnet_app/list-quickstart/obj/Debug/netcoreapp2.1/list-quickstart.AssemblyInfo.cs
+/Users/chenchen/GitHub/dotnet_app/list-quickstart/bin/Debug/netcoreapp2.1/list-quickstart.deps.json
+/Users/chenchen/GitHub/dotnet_app/list-quickstart/bin/Debug/netcoreapp2.1/list-quickstart.runtimeconfig.json
+/Users/chenchen/GitHub/dotnet_app/list-quickstart/bin/Debug/netcoreapp2.1/list-quickstart.runtimeconfig.dev.json
+/Users/chenchen/GitHub/dotnet_app/list-quickstart/bin/Debug/netcoreapp2.1/list-quickstart.dll
+/Users/chenchen/GitHub/dotnet_app/list-quickstart/bin/Debug/netcoreapp2.1/list-quickstart.pdb
+/Users/chenchen/GitHub/dotnet_app/list-quickstart/obj/Debug/netcoreapp2.1/list-quickstart.dll
+/Users/chenchen/GitHub/dotnet_app/list-quickstart/obj/Debug/netcoreapp2.1/list-quickstart.pdb

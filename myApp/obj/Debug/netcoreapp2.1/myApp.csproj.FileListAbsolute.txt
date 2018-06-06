@@ -1,0 +1,11 @@
+/Users/chenchen/GitHub/dotnet_app/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/Users/chenchen/GitHub/dotnet_app/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/Users/chenchen/GitHub/dotnet_app/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/Users/chenchen/GitHub/dotnet_app/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/Users/chenchen/GitHub/dotnet_app/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/Users/chenchen/GitHub/dotnet_app/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/Users/chenchen/GitHub/dotnet_app/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/Users/chenchen/GitHub/dotnet_app/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/Users/chenchen/GitHub/dotnet_app/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/Users/chenchen/GitHub/dotnet_app/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/Users/chenchen/GitHub/dotnet_app/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
